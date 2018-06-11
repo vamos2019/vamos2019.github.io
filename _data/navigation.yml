@@ -9,7 +9,7 @@ main:
   - title:  "Organisation"
     url:  /organisation/
   - title:   "Registration"
-    url:  /registration
+    url:  /registration/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
