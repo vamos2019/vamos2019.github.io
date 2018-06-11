@@ -1,0 +1,19 @@
+# main links
+main:
+  - title:  "Introduction"
+    url:  /introduction/
+  - title:  "CFP"
+    url:  /cfp/
+  - title:  "Program"
+    url:  /program/
+  - title:  "Organisation"
+    url:  /organisation/
+  - title:   "Registration"
+    url:  /registration
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+#
