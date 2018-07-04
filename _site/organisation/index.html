@@ -217,40 +217,39 @@
 
 <html>
     <head>
-        <style>
-            table, th, td {
-                border: 0px solid skyblue;
-                padding: 5px;
-                text-align: center;
-            }
-        table {
-            border-spacing: 15px;
+        <style type="text/css">
+            
+        img {
+            width: 100%;
+            height: auto;
+            vertical-align: middle;
         }
-        </style>
+        .pics_in_a_row {
+              margin-right: 2%;
+            display: flex;
+        }
+        .pics_in_a_row > div:not(:last-child) {
+            margin-right: 10%;
+        }
+        
+        .gilles { flex: 1.2171; }
+        .danny { flex: 1.0145; }
+        
+    </style>
     </head>
     <body>
-        
-        <table>
-            <tr>
-                <td> <a href="https://sites.google.com/site/gillesperrouin/" class="portfolio-link" data-toggle="modal">
-                    <img src="../img/gilles.jpg" class="img-responsive img-centered img-org" alt="" />
-                        Gilles Perrouin
-                        </a></td>
-                <td>
-                    <a href="https://people.cs.kuleuven.be/~danny.weyns/" class="portfolio-link" data-toggle="modal">
-                        <img src="../img/danny.jpg" class="img-responsive img-centered img-org" alt="" />
-                            Danny Weyns
-                            </a>
-                    </td>
-            </tr>
-            <tr>
-               <td>PReCISE, NADI, University of Namur, <br />Belgium</td>
-               <td>Katholieke Universiteit te Leuven, Belgium</td>
-            </tr>
-        </table>
-        
+        <div class="pics_in_a_row">
+            <div class="gilles">
+                <a href="https://sites.google.com/site/gillesperrouin/" class="portfolio-link" data-toggle="modal">
+               <img src="../img/gilles.jpg" class="img-responsive img-centered img-org" alt="" /> Gilles Perrouin, <br />PReCISE, NADI, University of Namur, Belgium</a>
+            </div>
+            <div class="danny">
+                <a href="https://people.cs.kuleuven.be/~danny.weyns/" class="portfolio-link" data-toggle="modal">
+                <img src="../img/danny.png" class="img-responsive img-centered img-org" alt="" />Danny Weyns, <br />Katholieke Universiteit te Leuven, Belgium
+                </a>
+            </div>
+        </div>
     </body>
-    
 </html>
 
 <h1 id="programme-committee">Programme Committee</h1>
