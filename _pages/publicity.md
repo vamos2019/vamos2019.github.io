@@ -5,7 +5,7 @@ permalink:  /publicity/
    
 ---
 
-#Vamos Logo 
+# Vamos Logo 
 
 ![here](https://vamos2019.github.io/img/vamos_logo.png)
 
