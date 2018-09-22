@@ -1,0 +1,1 @@
+We are happy to announce that the VAMOS 2019 proceedings will be published by ACM.  

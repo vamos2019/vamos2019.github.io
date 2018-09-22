@@ -19,7 +19,7 @@ permalink: /organisation/
 * Olivier Barais, U. Rennes, Inria, CNRS, IRISA,  France 
 * Nelly Bencomo, Aston U., United Kingdom
 * David Benavides, University of Seville, Spain
-* Thorsten Berger, TU Chalmers, Sweden
+* Thorsten Berger, Chalmers | University of Gothenburg, Sweden
 * Stefan Biffl, TU Vienna, Austria
 * Goetz Botterweck, University of Limerick, Ireland
 * Radu Calinescu, York University, United, Kingdom
@@ -40,7 +40,7 @@ permalink: /organisation/
 * Roberto Erick Lopez-Herrejón, ETS, Canada
 * Kim Mens, UCLouvain, Belgium 
 * Raffaela Mirandola, Politecnico di Milano, Italy
-* Mohammadreza Mousavi, Halmstad University, Sweden
+* Mohammadreza Mousavi, University of Leicester, United Kingdom
 * Sarah Nadi, University of Alberta, Canada
 * Edson Oliveira Jr., State University of Maringá, Brazil
 * Clément Quinton,  University of Lille, France
