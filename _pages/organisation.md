@@ -19,7 +19,7 @@ permalink: /organisation/
 * Olivier Barais, U. Rennes, Inria, CNRS, IRISA,  France 
 * Nelly Bencomo, Aston U., United Kingdom
 * David Benavides, University of Seville, Spain
-* Thorsten Berger, Chalmers | University of Gothenburg, Sweden
+* Thorsten Berger, Chalmers \| University of Gothenburg, Sweden
 * Stefan Biffl, TU Vienna, Austria
 * Goetz Botterweck, University of Limerick, Ireland
 * Radu Calinescu, York University, United, Kingdom
