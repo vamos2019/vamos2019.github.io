@@ -34,7 +34,7 @@ permalink: /organisation/
 * Paul Grünbacher, Johannes Kepler U. Linz, Austria
 * Patrick Heymans, UNamur,  Belgium
 * Christian Kästner, Carnegie Mellon U., USA
-* Timo Kherer, Humboldt-U. Berlin, Germany
+* Timo Kehrer, Humboldt-U. Berlin, Germany
 * Axel Legay, IRISA/Inria, France
 * Malte Lochau, TU Darmstadt, Germany
 * Roberto Erick Lopez-Herrejón, ETS, Canada
