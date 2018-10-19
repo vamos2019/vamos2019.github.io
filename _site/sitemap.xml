@@ -9,6 +9,10 @@
 <lastmod>2018-09-03T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/ACM-proceedings/</loc>
+<lastmod>2018-09-22T00:00:00+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cfp/</loc>
 </url>
 <url>
@@ -31,6 +35,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/registration/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/venue/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/danny/</loc>

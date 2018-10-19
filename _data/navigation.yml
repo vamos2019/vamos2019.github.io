@@ -12,6 +12,8 @@ main:
     url:  /registration/
   - title:  "Publicity"
     url:  /publicity/
+  - title:  "Venue"
+    url:  /venue/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
