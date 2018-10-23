@@ -3,6 +3,7 @@
    ========================================================================== */
 
 #main {
+  @include clearfix;
   margin-left: auto;
   margin-top: 2em;
   margin-right: auto;
