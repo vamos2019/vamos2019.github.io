@@ -58,7 +58,7 @@ Submission length (max) per paper type:
 * Artifacts, tools and demonstration papers: 4-6 pages (including references)
 * Panel proposals: 2 pages (including references)
 
-All submissions should be in English and follow the double column ACM template which can be found [here](https://www.acm.org/publications/proceedings-template).
+All submissions should be in English and follow the double column ACM template which can be found [here](https://www.acm.org/publications/proceedings-template). Please use the ***sigconf*** option.  
 
 Papers should be submitted via Easychair [here](https://easychair.org/conferences/?conf=vamos2019). 
 
