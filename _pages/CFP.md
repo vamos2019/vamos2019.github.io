@@ -49,7 +49,7 @@ Dates are given Anywhere on Earth (AoE) for all kinds of submissions:
 
 # Submissions
 
-We welcome the following types of submissions: ***Research papers*** describing  original and evaluated contributions, empirical studies, and surveys; ***Research-in-progress papers*** describing emerging results, problem statements outlining open issues of theoretical or practical nature, and vision papers that look into the future of VaMoS; ***Artifact papers*** presenting test beds, tools and demonstrations, and important cases and data sets for the community; ***Panel proposals*** that define an exciting topic for a panel at VaMoS with 4 candidate panelists.
+We welcome the following types of submissions: ***Research papers*** describing  original and evaluated contributions, empirical studies, and surveys; ***Research-in-progress papers*** describing emerging results, problem statements outlining open issues of theoretical or practical nature, and vision papers that look into the future of VaMoS; ***Artifact papers*** presenting test beds, tools and demonstrations, and important cases and data sets for the community; ***Panel proposals*** that define an exciting topic for a panel at VaMoS with 4 candidate panelists. Candidate panelists should be identified clearly in the paper to ease panel selection.  
 
 Submission length (max) per paper type:
 
