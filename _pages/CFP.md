@@ -43,7 +43,7 @@ Within this exciting landscape of technological progress, VaMoS 2019 aims to est
 Dates are given Anywhere on Earth (AoE) for all kinds of submissions:
 
 
-* Full paper submission ***(extended, firm): November 16, 2018*** 
+* Full paper submission ***(extended, firm, applies to submitted abstracts and new submissions): November 16, 2018*** 
 * Notification:  December 16, 2018
 * Camera-Ready:  Jan, 3, 2019 (to be confirmed)  
 
