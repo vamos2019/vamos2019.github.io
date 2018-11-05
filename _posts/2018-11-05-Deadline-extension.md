@@ -1,0 +1,1 @@
+The deadline for all kinds of submission has been extended to ***November 16*** (AOE). This new deadline is strict.  Happy Writing !  
