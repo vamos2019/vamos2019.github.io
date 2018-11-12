@@ -4,6 +4,8 @@ main:
     url:  /introduction/
   - title:  "CFP"
     url:  /cfp/
+  - title: "Keynotes"
+    url:  /keynotes/
   - title:  "Program"
     url:  /program/
   - title:  "Organisation"

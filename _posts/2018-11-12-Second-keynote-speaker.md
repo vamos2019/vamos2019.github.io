@@ -1,0 +1,1 @@
+We are delighted to inform you that our second keynote speaker will be Mathias Galster from the University of Canterbury, New Zealand !   

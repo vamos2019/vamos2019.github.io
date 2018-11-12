@@ -1,1 +1,1 @@
-We are delighted to inform you that our first keynote speaker will be Norbert Siegmund from Bauhaus Univeristät Weimar !   
+We are delighted to inform you that our first keynote speaker will be Norbert Siegmund from Bauhaus Univeristät Weimar, Germany !   
