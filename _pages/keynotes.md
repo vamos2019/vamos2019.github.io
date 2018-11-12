@@ -19,7 +19,7 @@ permalink: /keynotes/
 ### Title:  TBD
 ###  Abstract: TBD
 
-##  Prof. Dr. Mathias Galster - University of Canterbury, New Zealand
+##  Prof. Dr. Matthias Galster - University of Canterbury, New Zealand
 
 <p align="center">
   <img hegiht="200" width="212" src="https://vamos2019.github.io/img/Matthias-Galster.jpg">

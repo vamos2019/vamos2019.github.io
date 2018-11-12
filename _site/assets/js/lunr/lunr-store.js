@@ -25,7 +25,7 @@ var store = [{
         "url": "http://localhost:4000/First-keynote-speaker/",
         "teaser":null},{
         "title": "Second Keynote Speaker",
-        "excerpt":"We are delighted to inform you that our second keynote speaker will be Mathias Galster from the University of Canterbury, New Zealand ! ","categories": [],
+        "excerpt":"We are delighted to inform you that our second keynote speaker will be Matthias Galster from the University of Canterbury, New Zealand ! ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/Second-keynote-speaker/",
         "teaser":null}]
