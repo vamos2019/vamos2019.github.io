@@ -1,7 +1,6 @@
 ---
-
 title:  Registration
-permalink: /registration/
+permalink:  /registration/
 
 ---
 
