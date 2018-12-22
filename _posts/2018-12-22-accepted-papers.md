@@ -1,0 +1,1 @@
+VAMOS 2019 has accepted 14 papers, the list is available on the program page. Congratulations to all authors !  
