@@ -45,7 +45,7 @@ Dates are given Anywhere on Earth (AoE) for all kinds of submissions:
 
 * Full paper submission ***(extended, firm, applies to submitted abstracts and new submissions): November 16, 2018*** 
 * Notification:  ***December 21, 2018 (extended)***
-* Camera-Ready:  Jan, 3, 2019 (to be confirmed)  
+* Camera-Ready:  January, 11, 2019  
 
 # Submissions
 
