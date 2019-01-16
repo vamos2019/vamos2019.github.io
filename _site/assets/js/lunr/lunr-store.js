@@ -28,4 +28,24 @@ var store = [{
         "excerpt":"We are delighted to inform you that our second keynote speaker will be Matthias Galster from the University of Canterbury, New Zealand ! ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/Second-keynote-speaker/",
+        "teaser":null},{
+        "title": "Registration Available",
+        "excerpt":"The registration link is available on the registration page. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/registration-available/",
+        "teaser":null},{
+        "title": "Accepted Papers",
+        "excerpt":"VAMOS 2019 has accepted 14 papers, the list is available on the program page. Congratulations to all authors ! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/accepted-papers/",
+        "teaser":null},{
+        "title": "Early Registration Deadline",
+        "excerpt":"Happy new year ! The early registration deadline has been extended until Monday, January 14th. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/Early-Registration-Deadline/",
+        "teaser":null},{
+        "title": "Preliminary Program",
+        "excerpt":"The preliminary program is available. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/Preliminary-program/",
         "teaser":null}]
