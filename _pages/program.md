@@ -50,7 +50,7 @@ Sebastian Krieter, Tobias Thiem and Thomas Leich. Using Dynamic Software Product
 
 10h00 -  10h30:  Coffee Break (Foyer)
 
-10-h 30 – 12 h 30 :  **Session 3: Testing and Validation **
+10-h 30 – 12 h 30 :  **Session 3: Testing and Validation**
  
 Mustafa Al-Hajjaji, Uwe Ryssel and Michael Schulze. Validating Partial Configurations of Product Lines 
 
