@@ -1,0 +1,1 @@
+We would like to thank the Fonds National de la Recherche Scientifique, [FNRS](http://www.fnrs.be/en/) for their support to the VAMOS workshop ! 
