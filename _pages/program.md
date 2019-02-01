@@ -27,8 +27,7 @@ Jacob Krüger. Are You Talking about Software Product Lines? An Analysis of Deve
 (Discussant: Paolo Arcaini)
 
 Shaukat Ali, Paolo Arcaini, Ichiro Hasuo, Fuyuki Ishikawa and Nian-Ze Lee. Towards a Framework for the Analysis of Multi-PLs in the Automotive Domain
-(Discussant:  Merci Nijma) 
-
+(Discussant: Merci Nijma) 
 
 
 12h 30-13h30:  **Lunch**
@@ -76,10 +75,9 @@ Fischer Ferreira, João Paulo Diniz, Cleiton Tavares and Eduardo Figueiredo. Tes
 (Discussant: Kristof Meixner)
 
 
-
 12h 30-14h:  **Lunch**
 
-14 h - 15 h 30:  **Panel on Quantitative Variability Modeling and Analysis (Moderated by Maurice ter Beek and Axel Legay)**
+14 h - 15 h 30:  **Panel on Quantitative Variability Modeling and Analysis** (Panelists: Ina Schaefer, Maxime Cordy, Pierre-Yves Schobbens, Norbert Siegmund, moderated by Maurice ter Beek and Axel Legay)
 
 15  h 30 -  16h 00: Coffee Break (Foyer)
 
@@ -111,9 +109,6 @@ Daniel Cruz, Eduardo Figueiredo and Jabier Martinez. A Literature Review and Com
 Sandra Greiner and Bernhard Westfechtel. On Determining Variability Annotations In Partially Annotated Models
 (Discussant: Ivan Machado)
 
-
 12H 10 -  Closing Remarks, next VAMOS and Lunch
-
-
 
  
