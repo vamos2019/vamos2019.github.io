@@ -42,7 +42,7 @@ Social Events
 Wednesday, we plan a guided tour at the InBev brewery (Stella Artois).  We meet at the Aarschotsesteenweg 20, 3000 Leuven at 16:50 (see the plan below). You can get there from the Campus by taking Bus 2 and stop at “Leuven Station.” From the station the brewery is about 15 minutes walking. The tour starts at 17 h 00 (5 PM) and ends around 19 h 00 (7 PM).
 {: style="text-align: justify"}
 
-[](https://vamos2019.github.io/img/Stella.png)
+![](https://vamos2019.github.io/img/Stella.png)
 
 
 Thursday, we plan the social dinner in the Faculty Club, Groot Begijnhof 14, 3000 Leuven (see the map below). We meet at the restaurant at 19 h 00 (7 PM, the dinner will be served in the Lemaire room). You can either walk to the Faculty Club (20 minutes) or get by taking Bus 2 at the Campus till “Leuven Sint-Kwintenskerk.” From there the Faculty Club is just a short walk. The event ends at 23 h 00 (11 PM).
