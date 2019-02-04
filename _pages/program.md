@@ -9,7 +9,7 @@ permalink: /program/
 
 ## Wednesday, February 6th
 
-8h00 - 9 h 00:  Registration
+8h30 - 9 h 00:  Registration
 
 9h - 9h05:  Opening remarks
 
@@ -51,7 +51,7 @@ Sebastian Krieter, Tobias Thiem and Thomas Leich. Using Dynamic Software Product
 
 ## Thursday, February 7th
 
-8h00 - 9 h 00:  Registration
+8h30 - 9 h 00:  Registration
 
 9h - 9h05:  Message from the organisers
 
@@ -95,7 +95,7 @@ Karine Gomes, Leopoldo Teixeira, Thayonara Alves, Márcio Ribeiro and Rohit Ghey
 
 ## Friday, February, 8th
 
-8h00 - 9 h 00:  Registration
+8h30 - 9 h 00:  Registration
 
 9 h 00 – 10 h 30:  **Panel on Variability and AI** Panelists: Hendrick Blockeel (KULeuven), Benoit Frenay (UNamur) Eddy Truyen (KULeuven), moderated by Danny Weyns and Gilles Perrouin. 
 
