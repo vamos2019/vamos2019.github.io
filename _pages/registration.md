@@ -4,7 +4,7 @@ permalink:  /registration/
 
 ---
 
- The registration includes *all* lunches and *social events* (Visit to the Stella Artois brewery and social Dinner at the Faculty Club).
+ The registration includes *all* lunches and *social events* (i.e., visit to the Stella Artois brewery and social Dinner at the Faculty Club). Costs additionally include a 3-day pass to travel by bus to the campus and in the city of Leuven.  
   
   |    Registration type		 | Price (euros) |
   | :------------------------:
