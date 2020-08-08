@@ -48,4 +48,14 @@ var store = [{
         "excerpt":"The preliminary program is available. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/Preliminary-program/",
+        "teaser":null},{
+        "title": "Fnrs Support",
+        "excerpt":"We would like to thank the Fonds National de la Recherche Scientifique, FNRS for their support to the VAMOS workshop ! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/FNRS-support/",
+        "teaser":null},{
+        "title": "Thank You",
+        "excerpt":"VAMOS 2019 is over ! Thank you to all participants for your invovlement in VAMOS 2019 success.  See you in Magdeburg next year !  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/Thank-You/",
         "teaser":null}]
